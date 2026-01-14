@@ -93,3 +93,8 @@ Orchestration: main.py serves as the controller, managing the flow between modul
 
 📧 Contact
 For any queries regarding this architecture assignment, please contact the repository owner.
+
+Name - Ashish Mehta 
+Email - Ashishmehta1207@gmail.com
+
+
